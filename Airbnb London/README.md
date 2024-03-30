@@ -21,6 +21,6 @@ was used to create the Power BI dashboard.
 1. The concentration of listings in key neighbourhoods in London, coupled with nuanced pricing patterns, highlights the dynamic nature of Airbnbs in the city.
 2. Using such a dashboard, travellers can gain a better understanding of the factors influencing Airbnb costs so that they can find something that suits their budget.
 
-### Feedback is welcome. Please connect with me:
+### Feedback is welcome. Connect with me:
 1. Linkedin: https://www.linkedin.com/in/rheamall
 2. Email: rheadeepamall@gmail.com
