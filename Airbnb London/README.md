@@ -17,10 +17,6 @@ was used to create the Power BI dashboard.
 
 **User-Friendly Interface:** The dashboard features an intuitive and visually appealing interface designed to facilitate ease of navigation and interaction for users with varying levels of technical expertise. 
 
-### Remarks
+### Concluding Remarks
 1. The concentration of listings in key neighbourhoods in London, coupled with nuanced pricing patterns, highlights the dynamic nature of Airbnbs in the city.
 2. Using such a dashboard, travellers can gain a better understanding of the factors influencing Airbnb costs so that they can find something that suits their budget.
-
-### Feedback is welcome. Connect with me:
-1. Linkedin: https://www.linkedin.com/in/rheamall
-2. Email: rheadeepamall@gmail.com
