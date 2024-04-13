@@ -6,3 +6,7 @@ This repository includes the Power BI files for all the dynamic dashboards I hav
 1. Airbnb Listings in London
 
 Dive into my collection of data dashboards and discover the stories within the numbers.
+
+### Feedback is welcome. Connect with me:
+- Linkedin: https://www.linkedin.com/in/rheamall
+- Email: rheadeepamall@gmail.com
