@@ -3,6 +3,9 @@
 ### Objective
 This dashboard serves as a tool to analyze and understand data related to Airbnb listings in London. My primary objective was to potentially provide Airbnb users with valuable insights about available listings and their prices based on their personal choice of neighbourhood in London, the number of bedrooms needed and their desired star rating.
 
+![1711771154120](https://github.com/user-attachments/assets/b8a53a93-b499-415d-a53d-9dd26d57bb64)
+
+
 ### About the Data
 **Data Source:** http://insideairbnb.com/get-the-data/ - the data, updated upto January 2024 at the time of access, provides detailed information about Airbnb listings, hosts, prices, room types, location, etc.
    
