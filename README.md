@@ -5,10 +5,10 @@ Dive into my collection of data dashboards and discover the stories within the n
 ## List of Dashboards (Updated as of 22nd October 2024)
 
 ### Power BI
-1. [Airbnb Listings in London](https://github.com/rheamall/Dashboards/tree/48632b0296b2b8d7570219f281d6229d7f54bc2e/Airbnb%20London)
+1. [Airbnb Listings in London](https://github.com/rheamall/Dashboards/tree/8d40c7a6d13938afb474be3c6eab9c7c69ff7c10/Power%20BI/Airbnb%20London)
 
 ### Looker
-1. [Population Analysis]()
+1. [Population Analysis](https://github.com/rheamall/Dashboards/tree/8d40c7a6d13938afb474be3c6eab9c7c69ff7c10/Looker/World%20Population)
 
 Each dashboard was designed to address specific analytical needs and objectives.
 
