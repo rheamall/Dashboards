@@ -1,1 +1,1 @@
-Dashboards created on Looker.
+Dashboards created on Looker Studio.
