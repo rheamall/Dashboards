@@ -4,7 +4,7 @@
 This dashboard serves as a tool to analyze and understand data related to Airbnb listings in London. My primary objective was to provide Airbnb users with valuable insights about available listings and their prices based on their personal choice of neighbourhood in London, the number of bedrooms needed and their desired star rating.
 
 
-https://github.com/user-attachments/assets/a10bde6e-e87a-4c7c-aa5f-67deeb25748e
+https://github.com/user-attachments/assets/1088e477-9a4a-455d-8e9d-e3eaa5b163f7
 
 
 ### About the Data
