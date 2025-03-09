@@ -23,6 +23,8 @@ The data utilized in this dashboard consisted of of 91778 unique rows of data. T
 
 was used to create the Power BI dashboard. 
 
+I also used DAX queries to create new columns and measures, which refined the dataset further.
+
 **User-Friendly Interface:** The dashboard has an intuitive and visually appealing interface designed to facilitate ease of navigation and interaction. I designed it to be suitable for users with varying levels of technical expertise. 
 
 ### Concluding Remarks
