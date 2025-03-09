@@ -1,7 +1,11 @@
 # Airbnb Listing in London (as of January 2024)
 
 ### Objective
-This dashboard serves as a tool to analyze and understand data related to Airbnb listings in London. My primary objective was to provide Airbnb users with valuable insights about available listings and their prices based on their personal choice of neighbourhood in London, the number of bedrooms needed and their desired star rating.
+This dashboard serves as a tool to analyze and understand data related to Airbnb listings in London. My primary objective was to provide Airbnb users with valuable insights about available listings and their prices based on their personal choice of neighbourhood in London, the number of bedrooms needed and their desired star rating. 
+
+By clicking on any data point in the dashboard, users can access detailed information about the exact host name, property type, and room type of the Airbnb, helping them find the perfect Airbnb with ease.
+
+### Demonstration
 
 
 https://github.com/user-attachments/assets/1088e477-9a4a-455d-8e9d-e3eaa5b163f7
@@ -15,7 +19,7 @@ The data utilized in this dashboard consisted of of 91778 unique rows of data. T
 - no duplicate entries,
 - missing values treated,
 - outliers treated and
-- columns appropriately treated to extract information about beds, bedrooms, star ratings, etc.
+- text columns appropriately treated to extract information about beds, bedrooms, star ratings, etc.
 
 was used to create the Power BI dashboard. 
 
