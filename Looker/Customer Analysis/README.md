@@ -10,7 +10,7 @@ There are dynamic filtering options for customer, product category and country, 
 
 View and interact with the dashboard on Looker [here](https://lookerstudio.google.com/reporting/ac19d4ee-c990-4525-b8e1-4317a00415ad).
 
-https://github.com/user-attachments/assets/11ffd44d-ba16-4f1c-8993-9bf8d74348b0
+https://github.com/user-attachments/assets/c6b52cc6-78c7-4aed-9234-134079b8b43e
 
 
 ### About the Data
