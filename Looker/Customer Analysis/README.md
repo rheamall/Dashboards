@@ -8,9 +8,10 @@ There are dynamic filtering options for customer, product category and country, 
 
 ### Demonstration
 
+View and interact with the dashboard on Looker [here](https://lookerstudio.google.com/reporting/ac19d4ee-c990-4525-b8e1-4317a00415ad).
 
+https://github.com/user-attachments/assets/11ffd44d-ba16-4f1c-8993-9bf8d74348b0
 
-View and interact with the dashboard on Looker [here](https://lookerstudio.google.com/reporting/ac19d4ee-c990-4525-b8e1-4317a00415ad)
 
 ### About the Data
 
