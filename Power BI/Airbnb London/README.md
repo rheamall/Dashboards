@@ -32,3 +32,7 @@ The concentration of listings in key neighbourhoods in London, coupled with nuan
 
 Using such a dashboard, travellers can gain a better understanding of the factors influencing Airbnb costs so that they can find something that suits their budget.
 
+### Feedback is welcome. Connect with me:
+
+- Linkedin: https://www.linkedin.com/in/rheamall
+- Email: rheadeepamall@gmail.com
